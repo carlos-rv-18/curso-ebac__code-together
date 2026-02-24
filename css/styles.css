@@ -166,6 +166,28 @@ header {
     cursor: pointer;
 }
 
+footer {
+    padding: 5rem 5rem ;
+    background-color: #6e6e6e;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer .footer__img {
+    width: 100px;
+}
+
+footer nav {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+footer nav a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
 
 
 
