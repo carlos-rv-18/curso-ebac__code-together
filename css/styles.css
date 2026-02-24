@@ -111,6 +111,7 @@ header {
     right: -100%;
     top: 100px;
     box-shadow: -15px 10px 22px rgb(0, 0, 0, .2);
+    border-radius: 10px 0 0 0;
 }
 
 .cart__tit {
